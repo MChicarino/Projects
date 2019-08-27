@@ -1,0 +1,11 @@
+C:\cursos\c#\projetos\intermediario\CursoClientePedido\CursoClientePedido\bin\Debug\netcoreapp2.1\CursoClientePedido.deps.json
+C:\cursos\c#\projetos\intermediario\CursoClientePedido\CursoClientePedido\bin\Debug\netcoreapp2.1\CursoClientePedido.runtimeconfig.json
+C:\cursos\c#\projetos\intermediario\CursoClientePedido\CursoClientePedido\bin\Debug\netcoreapp2.1\CursoClientePedido.runtimeconfig.dev.json
+C:\cursos\c#\projetos\intermediario\CursoClientePedido\CursoClientePedido\bin\Debug\netcoreapp2.1\CursoClientePedido.dll
+C:\cursos\c#\projetos\intermediario\CursoClientePedido\CursoClientePedido\bin\Debug\netcoreapp2.1\CursoClientePedido.pdb
+C:\cursos\c#\projetos\intermediario\CursoClientePedido\CursoClientePedido\obj\Debug\netcoreapp2.1\CursoClientePedido.csprojAssemblyReference.cache
+C:\cursos\c#\projetos\intermediario\CursoClientePedido\CursoClientePedido\obj\Debug\netcoreapp2.1\CursoClientePedido.csproj.CoreCompileInputs.cache
+C:\cursos\c#\projetos\intermediario\CursoClientePedido\CursoClientePedido\obj\Debug\netcoreapp2.1\CursoClientePedido.AssemblyInfoInputs.cache
+C:\cursos\c#\projetos\intermediario\CursoClientePedido\CursoClientePedido\obj\Debug\netcoreapp2.1\CursoClientePedido.AssemblyInfo.cs
+C:\cursos\c#\projetos\intermediario\CursoClientePedido\CursoClientePedido\obj\Debug\netcoreapp2.1\CursoClientePedido.dll
+C:\cursos\c#\projetos\intermediario\CursoClientePedido\CursoClientePedido\obj\Debug\netcoreapp2.1\CursoClientePedido.pdb
